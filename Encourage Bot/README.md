@@ -2,7 +2,7 @@
 
 ### This file should only contain information like this (the following code is an example):
 
-TOKEN = ODgyOTk4NTAzPTI2ODkwNTM3.YQyBNg.vyWY47fkSo7wY97qCCRqhr_0gPA
+TOKEN = ODgyOTk4NTAzPTI2ODkwNTM3.YQyBNg.vyWY47fkSo7wY97qCCRqhr_0gPA  **# in order to find your token (the long string of random characters, go to: https://discord.com/developers/applications. From here, create a bot and copy the token.**
 
 
 ----
